@@ -16,7 +16,7 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
 - For usage or language related questions, you should post to the official [Julia Discourse](https://discourse.julialang.org/) forum with the [hep tag](https://discourse.julialang.org/tag/hep).
 - Low-frequency communication (e.g. annoucement) also happens on [Julia-HEP Google Group](https://groups.google.com/g/julia-hep/), the group is currently public.
 - For power users, you can find our projects on Github, most hosted under the
-  nema-sake [JuliaHEP organization](https://github.com/JuliaHEP).
+  name-sake [JuliaHEP organization](https://github.com/JuliaHEP).
 
 # Selected Publications
 

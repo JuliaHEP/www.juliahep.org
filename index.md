@@ -22,7 +22,7 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
 
  - Marcel Stanitzki, Jan Strube "Performance of Julia for High Energy Physics Analyses" [inspire](https://inspirehep.net/literature/1788437)
  - Oliver Schulz et al., "BAT.jl -- A Julia-based tool for Bayesian inference" [inspire](https://inspirehep.net/literature/1810548)
- - "Julia for HEP" community White paper is under preparation [before end of 2023]
+ - Jonas Eschle et al., "Potential of the Julia programming language for high energy physics computing" [inspire](https://inspirehep.net/literature/2666479)
 
 # Selected Talks
 

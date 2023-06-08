@@ -32,6 +32,7 @@ jobs:
       - name: 🚀 Build and Deploy
         uses: tlienart/xranklin-build-action@main
         with:
+          BASE_URL_PREFIX: ''
           PREVIEW: ${{ env.PRID }}
 
       - name: 🗒️ Preview URL indication for PRs
@@ -39,6 +40,6 @@ jobs:
         with:
           message: |
             Preview should be up in a couple of mins at
-            https://${{ env.BASE_URL }}/${{ env.REPO_PREFIX }}/${{ env.PRID }}
+            https://${{ env.BASE_URL }}/${{ env.PRID }}
             (if you get a 404, wait 30s then refresh).
         if: github.event_name == 'pull_request'

@@ -14,7 +14,7 @@ The [pre-print](https://arxiv.org/abs/2306.03675) is accessible via arxiv.
 
 ---
 
-By listing your name below, you endorses the main findings of the paper 
+By listing your name below, you endorse the main findings of the paper 
 and want to show support for the community to put more effort in exploring Julia's usage and adoption in HEP:
 
 ~~~

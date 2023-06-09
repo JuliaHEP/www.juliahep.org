@@ -10,7 +10,7 @@ This page collects post-submission endorsement for the paper:
 
 The [pre-print](https://arxiv.org/abs/2306.03675) is accessible via arxiv.
 
-**To sign up for endorsement**, add yourself to this [Google doc](https://docs.google.com/spreadsheets/d/1AmMqDknbL_C5FY6hmkwcLdY_2UCgd48-GlM7wJuHogM/edit?usp=sharing).
+**To sign up for endorsement**, simply fill [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdIaDyksgCh26M9SCsCod-qWnL6PrEXB_mfQXz33m_mtlg_XA/viewform).
 
 ---
 

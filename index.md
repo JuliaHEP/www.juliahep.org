@@ -26,6 +26,8 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
 
 # Selected Talks
 
+ - Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry
+   Ling](https://indico.cern.ch/event/1293313/timetable/#11-hands-on-demo-session))
  - Is Julia ready to be adopted by HEP? (CHEP2023, [by Tamás Gál](https://indico.jlab.org/event/459/contributions/11521/))
  - High-performance end-user analysis in pure Julia programming language (CHEP2023, [by Jerry Ling](https://indico.jlab.org/event/459/contributions/11560/))
  - Polyglot Jet Finding (CHEP2023, [by Graeme A Stewart](https://indico.jlab.org/event/459/contributions/11540/))

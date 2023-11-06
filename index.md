@@ -4,8 +4,8 @@ title = "JuliaHEP"
 
 <!-- \toc -->
 # JuliaHEP 2023 Workshop ongoing (Nov 06 - NOv 09)
-- https://indico.cern.ch/event/1292759/
-- Main tutorial JupyterBook render: https://juliahep.github.io/JuliaHEP-2023/intro.html
+- [https://indico.cern.ch/event/1292759/](https://indico.cern.ch/event/1292759/)
+- Main tutorial Jupyter Book: [https://juliahep.github.io/JuliaHEP-2023/intro.html](https://juliahep.github.io/JuliaHEP-2023/intro.html)
 
 # What is JuliaHEP
 

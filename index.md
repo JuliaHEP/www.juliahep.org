@@ -3,9 +3,6 @@ title = "JuliaHEP"
 +++
 
 <!-- \toc -->
-# JuliaHEP 2023 Workshop ongoing (Nov 06 - NOv 09)
-- [https://indico.cern.ch/event/1292759/](https://indico.cern.ch/event/1292759/)
-- Main tutorial Jupyter Book: [https://juliahep.github.io/JuliaHEP-2023/intro.html](https://juliahep.github.io/JuliaHEP-2023/intro.html)
 
 # What is JuliaHEP
 
@@ -28,7 +25,7 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
  - Jonas Eschle et al., "Potential of the Julia programming language for high energy physics computing" [inspire](https://inspirehep.net/literature/2666479), [Community Endorsement](./julia_for_hep_endorsers)
 
 # Selected Talks
-
+ - [JuliaHEP Workshop 2023](https://indico.cern.ch/event/1292759/)
  - Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry
    Ling](https://indico.cern.ch/event/1293313/timetable/#11-hands-on-demo-session))
  - Is Julia ready to be adopted by HEP? (CHEP2023, [by Tamás Gál](https://indico.jlab.org/event/459/contributions/11521/))

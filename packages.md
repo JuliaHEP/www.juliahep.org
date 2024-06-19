@@ -9,8 +9,7 @@ title = "Packages"
   plots](https://moelf.github.io/FHist.jl/dev/notebooks/makie_plotting/))
 - Analysis Grand Challenge example: [LHC_AGC.jl](https://github.com/Moelf/LHC_AGC.jl)
 - [EDM4hep.jl](https://github.com/peremato/EDM4hep.jl) Prototype of 
-  the [EDM4hep](https://github.com/key4hep/EDM4hep) (generic Event Data Model for HEP experiments part of [Key4hep]()) for Julia. Read access to ROOT files with EDM4hep data.
-  the [EDM4hep](https://github.com/key4hep/EDM4hep) (generic Event Data Model for HEP experiments part of [Key4hep](https://key4hep.github.io/key4hep-doc/index.html)) for Julia. Read access to ROOT files with EDM4hep data.
+  the [EDM4hep](https://github.com/key4hep/EDM4hep) (generic Event Data Model for HEP experiments part of [Key4hep](https://key4hep.github.io/key4hep-doc/index.html)) for Julia. Read access to ROOT files with EDM4hep data
 
 
 # Simulation

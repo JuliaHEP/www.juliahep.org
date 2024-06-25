@@ -26,6 +26,14 @@ JuliaHEP is also one of the activities of the HEP Software Foundation ([HSF](htt
 - Oliver Schulz et al., "BAT.jl -- A Julia-based tool for Bayesian inference" [inspire](https://inspirehep.net/literature/1810548)
 - Jonas Eschle et al., "Potential of the Julia programming language for high energy physics computing" [inspire](https://inspirehep.net/literature/2666479), [Community Endorsement](./julia_for_hep_endorsers)
 
+## HEP papers that used Julia
+- "Studies of the double charmed tetraquark" by LHCb collaboration, [inspire](https://inspirehep.net/literature/1915358)
+- "Studies of OmegacXX states by LHCb collaboration", [inspire](https://inspirehep.net/literature/1879440)
+- Liupan An et al., [inspire](https://inspirehep.net/literature/1806437)
+- M. Mikhasenko et al., "Pole position of the a1(1260) from τ-decay", [inspire](https://inspirehep.net/literature/1696497)
+- L. Bibrzycki et al., "π p → η(')π− p in the double-Regge region", [inspire](https://inspirehep.net/literature/1859521)
+
+
 # Selected Talks
 - [JuliaHEP Workshop 2023](https://indico.cern.ch/event/1292759/) at ECAP (Erlangen Centre for Astroparticle Physics)
 - Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry

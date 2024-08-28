@@ -9,6 +9,10 @@ title = "JuliaHEP"
 [JuliaHEP](https://github.com/JuliaHEP/) is an informal organization that aims to unify effort
 in developing Julia projects related to [high energy physics](https://en.wikipedia.org/wiki/Particle_physics).
 
+## **JuliaHEP 2024**
+
+We are currently organising this year's [JuliaHEP](https://indico.cern.ch/e/juliahep2024) event, which will happen at CERN from 30 September to 4 October. We have two days of presentations ([submit your abstract!](https://indico.cern.ch/event/1410341/abstracts/#submit-abstract)) and then a two and a half day hackathon in the CERN IdeaSquare.
+
 # Where to find us?
 
 - Some of us are pretty active on the `#hep` channel of the [official Julia Slack
@@ -19,22 +23,25 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
   name-sake [JuliaHEP organization](https://github.com/JuliaHEP).
 
 # HSF Working Group
+
 JuliaHEP is also one of the activities of the HEP Software Foundation ([HSF](https://hepsoftwarefoundation.org)). It organizes regular [topical meetings](https://indico.cern.ch/category/16956/) and [workshops](https://indico.cern.ch/category/7971/) for improving the sharing of knowledge and expertise, as well as unify effort in developing Julia packages useful for the HEP community. All conveners of the working group can be reached at [hsf-juliahep-organisation@googlegroups.com](mailto:hsf-juliahep-organisation@googlegroups.com).
 
 # Selected Publications
+
 - Marcel Stanitzki, Jan Strube "Performance of Julia for High Energy Physics Analyses" [inspire](https://inspirehep.net/literature/1788437)
 - Oliver Schulz et al., "BAT.jl -- A Julia-based tool for Bayesian inference" [inspire](https://inspirehep.net/literature/1810548)
 - Jonas Eschle et al., "Potential of the Julia programming language for high energy physics computing" [inspire](https://inspirehep.net/literature/2666479), [Community Endorsement](./julia_for_hep_endorsers)
 
 ## HEP papers that used Julia
+
 - "Studies of the double charmed tetraquark" by LHCb collaboration, [inspire](https://inspirehep.net/literature/1915358)
 - "Studies of OmegacXX states by LHCb collaboration", [inspire](https://inspirehep.net/literature/1879440)
 - Liupan An et al., [inspire](https://inspirehep.net/literature/1806437)
 - M. Mikhasenko et al., "Pole position of the a1(1260) from τ-decay", [inspire](https://inspirehep.net/literature/1696497)
 - L. Bibrzycki et al., "π p → η(')π− p in the double-Regge region", [inspire](https://inspirehep.net/literature/1859521)
 
-
 # Selected Talks
+
 - [JuliaHEP Workshop 2023](https://indico.cern.ch/event/1292759/) at ECAP (Erlangen Centre for Astroparticle Physics)
 - Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry
    Ling](https://indico.cern.ch/event/1293313/timetable/#11-hands-on-demo-session))

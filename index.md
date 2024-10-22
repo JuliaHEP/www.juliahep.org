@@ -9,7 +9,7 @@ title = "JuliaHEP"
 [JuliaHEP](https://github.com/JuliaHEP/) is an informal organization that aims to unify effort
 in developing Julia projects related to [high energy physics](https://en.wikipedia.org/wiki/Particle_physics).
 
-![JuliaHEP Logo](/assets/images/julia-hep-logo.png)
+![JuliaHEP Logo](assets/images/julia-hep-logo.png)
 
 ## JuliaHEP Workshops
 

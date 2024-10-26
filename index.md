@@ -15,7 +15,7 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
 
 We organise annual workshops for the JuliaHEP community. These are a great place to present new projects and updates.
 
-- [JuliaHEP Workshop 2024](https://indico.cern.ch/e/juliahep202/) at CERN
+- [JuliaHEP Workshop 2024](https://indico.cern.ch/e/juliahep2024) at CERN
 - [JuliaHEP Workshop 2023](https://indico.cern.ch/event/1292759/) at ECAP (Erlangen Centre for Astroparticle Physics)
 
 ## JuliaHEP Topical Meetings

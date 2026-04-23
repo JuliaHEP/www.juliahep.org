@@ -15,20 +15,21 @@ in developing Julia projects related to [high energy physics](https://en.wikiped
 
 We organise annual workshops for the JuliaHEP community. These are a great place to present new projects and updates.
 
-Our next workshop will be at Princeton, from 28-31 July 2025:
+Our next workshop will be in Munich, at MPI, from 19-23 October 2026:
 
-- [JuliaHEP Workshop 2025](https://indico.cern.ch/e/juliahep2025) at Princeton
+- [JuliaHEP Workshop 2026](https://indico.cern.ch/e/juliahep2026) at MPI Munich
 
 Our previous workshops have been:
 
+- [JuliaHEP Workshop 2025](https://indico.cern.ch/e/juliahep2025) at Princeton
 - [JuliaHEP Workshop 2024](https://indico.cern.ch/e/juliahep2024) at CERN
 - [JuliaHEP Workshop 2023](https://indico.cern.ch/event/1292759/) at ECAP (Erlangen Centre for Astroparticle Physics)
 
 ## JuliaHEP Topical Meetings
 
-We organise topical meetings on subjects of interest to the JuliaHEP community -
-this can be a presentation on a new package, an update, or discussion of an
-interesting problem.
+We organise occasional topical meetings on subjects of interest to the JuliaHEP
+community - this can be a presentation on a new package, an update, or
+discussion of an interesting problem.
 
 - [JuliaHEP Topical Meeting Calendar](https://indico.cern.ch/category/16956/)
 
@@ -55,7 +56,7 @@ JuliaHEP is also one of the activities of the HEP Software Foundation ([HSF](htt
 - Marcel Stanitzki, Jan Strube "Performance of Julia for High Energy Physics Analyses" [inspire](https://inspirehep.net/literature/1788437)
 - Oliver Schulz et al., "BAT.jl - A Julia-based tool for Bayesian inference" [inspire](https://inspirehep.net/literature/1810548)
 - Jonas Eschle et al., "Potential of the Julia programming language for high energy physics computing" [inspire](https://inspirehep.net/literature/2666479)
-- Graeme A Stewart et al., "Julia in HEP" [arXiv:2503.08184](https://doi.org/10.48550/arXiv.2503.08184)
+- Graeme A Stewart et al., "Julia in HEP" [arXiv:2503.08184](https://doi.org/10.48550/arXiv.2503.08184); [EPJ Web Conf](https://doi.org/10.1051/epjconf/202533701266)
 
 ### HEP papers that used Julia
 

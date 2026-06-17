@@ -68,6 +68,8 @@ JuliaHEP is also one of the activities of the HEP Software Foundation ([HSF](htt
 
 ### Talks
 
+- Performance and integration challenges of using Julia language for trigger and reconstruction (CHEP 2026, [by Mateusz Fila](https://indico.cern.ch/event/1471803/contributions/6966827/))
+- Static compilation of Julia packages for integration with existing HEP codebases: a case study with JetReconstruction.jl (ACAT 2025, [by Mateusz Fila](https://indico.cern.ch/event/1488410/contributions/6562804/))
 - Julia in HEP? (CHEP 2024, Plenary, [by Graeme A Stewart](https://indico.cern.ch/event/1338689/contributions/6009700/))
 - Julia in high-energy physics: a paradigm shift or just another tool?, HSF Seminar, October 2024 [by Uwe Hernandez Acosta](https://indico.cern.ch/event/1452314/)
 - Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry Ling](https://indico.cern.ch/event/1293313/timetable/#11-hands-on-demo-session))

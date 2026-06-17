@@ -1,0 +1,11 @@
+[deps]
+NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
+Xranklin = "558449b0-171e-4e1f-900f-d076a5ddf486"
+
+[compat]
+NodeJS = "2"
+julia = "1.11"
+
+[sources]
+Xranklin = {rev = "main", url = "https://github.com/tlienart/Xranklin.jl"}
+

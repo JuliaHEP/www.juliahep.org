@@ -1,3 +1,5 @@
 __site
 __cache
 .vscode/
+
+Manifest.toml

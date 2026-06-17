@@ -68,10 +68,9 @@ JuliaHEP is also one of the activities of the HEP Software Foundation ([HSF](htt
 
 ### Talks
 
-- Julia in HEP?, Computing in High Energy and Nucelar Physics Plenary, October 2024 [by Graeme A Stewart](https://indico.cern.ch/event/1338689/contributions/6009700/)
+- Julia in HEP? (CHEP 2024, Plenary, [by Graeme A Stewart](https://indico.cern.ch/event/1338689/contributions/6009700/))
 - Julia in high-energy physics: a paradigm shift or just another tool?, HSF Seminar, October 2024 [by Uwe Hernandez Acosta](https://indico.cern.ch/event/1452314/)
-- Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry
-   Ling](https://indico.cern.ch/event/1293313/timetable/#11-hands-on-demo-session))
+- Julia for HEP Computation (CoDaS-HEP/PyHEP 2023, [by Jerry Ling](https://indico.cern.ch/event/1293313/timetable/#11-hands-on-demo-session))
 - Is Julia ready to be adopted by HEP? (CHEP2023, [by Tamás Gál](https://indico.jlab.org/event/459/contributions/11521/))
 - High-performance end-user analysis in pure Julia programming language (CHEP2023, [by Jerry Ling](https://indico.jlab.org/event/459/contributions/11560/))
 - Polyglot Jet Finding (CHEP2023, [by Graeme A Stewart](https://indico.jlab.org/event/459/contributions/11540/))
